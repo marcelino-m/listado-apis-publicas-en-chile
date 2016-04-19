@@ -55,6 +55,11 @@ La versión actual de la API es 1.0. La mayoría de los métodos retorna sus res
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
 
+### Transporte
+
+- [transantiago-client](https://www.npmjs.com/package/transantiago-client): Esta api, es un paquete NPM, permite obtiene los 
+datos del Servicio de Información Móvil de Transantiago (SIMT), operado por Wireless-IQ S.A.
+
 ---
 
 #### Cómo Aportar:
